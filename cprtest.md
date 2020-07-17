@@ -18,4 +18,8 @@
 ## data analysis
 
 ## this was the basic which i have learnet today
+
+##comment 
+## this is also good learning from begining which has been done through r studio to git hub and git hub to r studio.
+## how to push n pull from r studio 
 >>>>>>> 6cb4276830d4d590205b0e02b179a80e0ea6bffe
