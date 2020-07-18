@@ -24,4 +24,6 @@
 ## how to push n pull from r studio 
 ## still it has been confusion how to exactly do this task
 ## the session was good and few things learned
+
+## next step should be do analysis of your data and try to explain it
 >>>>>>> 6cb4276830d4d590205b0e02b179a80e0ea6bffe
